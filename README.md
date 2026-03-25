@@ -50,23 +50,9 @@ I am currently focusing on deep tech projects and startups around Cybersecurity 
 ![Renueva](https://img.shields.io/badge/Renueva-AF0B08.svg?style=for-the-badge)
 
 
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=LuisPalacios&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![stats](https://nirzak-streak-stats.vercel.app/?user=LuisPalacios&theme=dark&hide_border=false)<br/>
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPalacios&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=LuisPalacios&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 
 ![dev](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![repos](https://github-contributor-stats.vercel.app/api?username=LuisPalacios&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
